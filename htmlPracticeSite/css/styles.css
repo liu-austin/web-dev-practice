@@ -1,0 +1,43 @@
+/* TAG SELECTORS */
+
+body {
+  background-color: #d3f6f3;
+}
+
+img {
+  border-radius: 100%;
+  border-style: solid;
+  border-width: thick;
+  border-color: #216583;
+}
+
+img:hover {
+  border-style: solid;
+  border-width: thick;
+  border-color: black;
+}
+
+h1, h3 {
+  color: #216583;
+}
+
+h1:hover, h3:hover {
+  color: #293462
+}
+
+hr {
+  border: none;
+  height: 4px;
+  width: 6%;
+  border-top-style: dotted;
+  border-color: #bb1542;
+}
+
+hr:hover {
+  height: 4px;
+  width: 100%;
+}
+
+strong:hover {
+  color: #454d66;
+}
